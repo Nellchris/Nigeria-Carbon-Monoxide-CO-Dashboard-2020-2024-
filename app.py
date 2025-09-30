@@ -6,6 +6,7 @@ import leafmap.foliumap as leafmap
 import plotly.graph_objects as go
 import matplotlib.cm as cm
 import matplotlib.colors as mcolors
+import mapclassify
 
 # ---------------------------
 # Load data
